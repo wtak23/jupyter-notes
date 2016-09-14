@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+
+*.png
+*.PNG
+
+*.npy
+
+*.pkl
+
+Euro*.gml
