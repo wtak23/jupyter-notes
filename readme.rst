@@ -12,6 +12,10 @@ I probably will use this more often when trying to acclimate myself with new pyt
 #################
 Personal snippets
 #################
+.. code-block:: python
+
+    from IPython.display import HTML
+    HTML('<iframe src=https://plot.ly/~empet/13475/ width=850 height=350></iframe>')
 ***********************************
 TOC for hosting on jupyter notebook
 ***********************************
