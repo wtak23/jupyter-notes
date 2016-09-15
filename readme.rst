@@ -1,20 +1,12 @@
-`[Parent Directory] <./>`_
-
-.. contents:: **Table of Contents**
-    :depth: 2
-
-.. sectnum::    
-    :start: 1    
-
-
-####
-Note
-####
 Most notes here were wrote with the old **ipython-notebook** (before the whole Jupyter movement).
 
-That was when I began learning python, and back then, I had a luke-warm feeling about ipython-notebook, and prefer to use Anaconda Spyder environement. Getting my hands wet with jupyter-notebook after a few months hiatus, I was pleasantly surprised on the amount of improvement they made (*e..g.*, integration with R with magic-cell, hyperlinked TOC that makes code navigation smoother).
+That was when I first began to learn python. Back then, I had a luke-warm feeling about ipython-notebook, and preferred to use Anaconda Spyder environment. Getting my hands wet with jupyter-notebook after a few months hiatus, I was pleasantly surprised on the amount of improvement they made (*e..g.*, integration with R with magic-cell, hyper-linked TOC that makes code navigation smoother).
 
 I probably will use this more often when trying to acclimate myself with new python packages and web APIs.
+
+.. contents:: **Contents**
+
+
 
 #################
 Personal snippets
