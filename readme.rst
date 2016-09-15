@@ -1,8 +1,9 @@
-Most notes here were wrote with the old **ipython-notebook** (before the whole Jupyter movement).
+**NOTE**: Better to view the notebook at http://nbviewer.jupyter.org/github/wtak23/jupyter-notes/tree/master/?flush_cache=true/ (`nbviewer FAQ <http://nbviewer.jupyter.org/faq#i-want-to-removeupdate-a-notebook-from-notebook-viewer>`__)
 
-That was when I first began to learn python. Back then, I had a luke-warm feeling about ipython-notebook, and preferred to use Anaconda Spyder environment. Getting my hands wet with jupyter-notebook after a few months hiatus, I was pleasantly surprised on the amount of improvement they made (*e..g.*, integration with R with magic-cell, hyper-linked TOC that makes code navigation smoother).
+Most notes here were wrote with the old **ipython-notebook** (before the whole Jupyter movement). That was when I first began to learn python. Back then, I had a luke-warm feeling about ipython-notebook, and preferred to use Anaconda Spyder environment. Getting my hands wet with jupyter-notebook after a few months hiatus, I was pleasantly surprised on the amount of improvement they made (*e..g.*, integration with R with magic-cell, hyper-linked TOC that makes code navigation smoother).
 
 I probably will use this more often when trying to acclimate myself with new python packages and web APIs.
+
 
 .. contents:: **Contents**
 
