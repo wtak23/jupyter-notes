@@ -1,5 +1,5 @@
 .ipynb_checkpoints
-
+*.db
 *.png
 *.PNG
 
@@ -8,3 +8,5 @@
 *.pkl
 
 Euro*.gml
+
+world.sql
